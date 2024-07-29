@@ -14,7 +14,7 @@ coverage/
 .eslintcache
 
 # Dotenv configs
-.env
+packages/.env
 .env.*
 
 # Logs
